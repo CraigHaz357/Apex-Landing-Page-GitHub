@@ -1,0 +1,7 @@
+{
+  "name": "Apex Note Capital",
+  "description": "A professional real estate and financial note buying landing page with a full admin dashboard for content management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
